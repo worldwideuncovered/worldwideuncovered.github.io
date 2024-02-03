@@ -1,5 +1,5 @@
 # worldwideuncovered.github.io
 <body>
   <p>Terrible website</p>
-  <img src="bigbenlaw.png">
+  <img src="big_ben_law.png">
 </body>
